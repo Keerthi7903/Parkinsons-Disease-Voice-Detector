@@ -1,0 +1,6 @@
+# .gitignore
+.gradio/
+*.pkl
+*.wav
+__pycache__/
+*.DS_Store
