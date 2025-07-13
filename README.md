@@ -1,5 +1,3 @@
-# Parkinsons-Disease-Voice-Detector
-
 # 🧠 Parkinson's Disease Voice Detection using Machine Learning 🎤
 
 A lightweight and interactive web app to **screen Parkinson's Disease** from **voice samples** using acoustic biomarkers like MFCCs, jitter, shimmer, pitch, and HNR — built with **Python**, **Parselmouth**, **Scikit-learn**, and **Gradio**.
