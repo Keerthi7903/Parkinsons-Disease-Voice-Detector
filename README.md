@@ -108,9 +108,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🔗 Live Demo Screenshot
 <img width="1875" height="892" alt="image" src="https://github.com/user-attachments/assets/b9df36bf-69ab-4e80-9c4e-a418c74a8bd7" />
 
-
-> Replace `path-to-screenshot.png` with your actual image file if uploading on GitHub.
-
 ---
 
 ## 🧑‍💻 Author
