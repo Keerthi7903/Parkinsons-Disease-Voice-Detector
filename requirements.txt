@@ -1,0 +1,7 @@
+gradio
+praat-parselmouth
+joblib
+numpy
+scikit-learn
+streamlit-lottie
+
